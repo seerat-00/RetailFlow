@@ -355,6 +355,7 @@ RetailFlow utilizes `pytest` with synthetic in-memory fixtures. Unit tests execu
 ./.venv/bin/pytest -v
 ```
 
+
 ### 3. Verify Database Objects in PostgreSQL
 ```bash
 ./.venv/bin/python -c "
