@@ -208,7 +208,7 @@ The dashboard specification is detailed in [`dashboard/README.md`](dashboard/REA
 - **Tableau Desktop:** Connect directly to PostgreSQL `retailflow_db` on `localhost:5432`, schema `retailflow`.
 - **Tableau Public / Offline:** Connect directly to the pre-aggregated CSV extracts located in `data/processed/`.
 
-Screenshots can be saved in [`dashboard/screenshots/`](dashboard/screenshots/).
+
 
 ---
 
