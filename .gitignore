@@ -1,0 +1,29 @@
+# Virtual Environment
+.venv/
+
+# Environment Variables
+.env
+.env.local
+
+# Python caches
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Data files (raw and processed datasets should not be committed)
+data/raw/
+data/processed/
+*.csv
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
